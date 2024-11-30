@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(9, 9, 76);
+}
+.bg-body-tertiary{
+     /* background-color: rgb(7, 23, 63); */
+    width: 100%;
+    opacity: 1;
+    
+    
+}
+.container{
+    background-color: rgb(7, 23, 63);
+}
+
+.container .navbar .container-fluid{
+    background-color: rgb(7, 23, 63); 
+    width: 100%; 
+}
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 0;
+}
+.navbar-brand{
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+    border-bottom: 0;
+}

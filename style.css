@@ -1,0 +1,41 @@
+.container-fluid{
+    background-color: rgb(12, 12, 122);
+    height: 100vh;
+
+}
+
+.container {
+    position: relative;
+    top: 200px;
+    width: 50%;
+    background-color: rgb(12, 12, 122);
+    /* border: 1px solid black; */
+
+
+}
+
+.form{
+    padding: 20px;
+    width: 100%;
+    background-color: transparent;
+    color: black;
+    border-color: black;
+}
+
+h1{
+    color: blue;
+}
+
+.container .btn{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.container p{
+    color: white;
+    text-align: center;
+}
+
+.btn-outline-primary{
+    color: aliceblue;
+}
